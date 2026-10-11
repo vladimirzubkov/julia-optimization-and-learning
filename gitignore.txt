@@ -1,0 +1,12 @@
+# Ignore
+.vscode
+Manifest.toml
+
+*.gif
+*.svg
+*.csv
+*.bson
+
+# Allow
+!*/data/mnist_simple.bson
+!*/data/mnist.bson
